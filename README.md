@@ -26,22 +26,30 @@ A professional invoice-generation application with client details, services, tax
 
 A client and project management dashboard for organizing clients, projects, budgets, deadlines, and workflow.
 
-🛠️ Skills
+## 🛠️ Skills & Technologies
 
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
 - DOM Manipulation
+- CSS Grid
+- CSS Flexbox
+
+### Backend & Data
 - Local Storage
-- Git & GitHub
-- UI/UX
+- Client-Side Data Management
 
-🎯 Currently Learning
+### Tools
+- Git
+- GitHub
 
+### Currently Learning
 - React.js
 - REST APIs
-- Modern Frontend Development
+- Modern Full-Stack Development
+  
 
 📫 Open to Opportunities
  
