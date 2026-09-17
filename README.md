@@ -1,6 +1,6 @@
 Hi, I'm Luma X Dev 👋
 
-Frontend Developer | Web Developer
+Full-Stack Developer | Web Developer
 
 I build responsive, interactive and user-friendly web applications using modern frontend technologies.
 
@@ -48,6 +48,5 @@ A large interactive Shayari application with categories, random Shayari, copy an
 - Modern Frontend Development
 
 📫 Open to Opportunities
-
-I'm currently looking for remote Frontend Developer / Web Developer opportunities where I can contribute to real-world projects and continue growing as a developer.
-
+ 
+I'm currently looking for remote Full-Stack Developer / Web Developer opportunities where I can contribute to real-world projects and build practical web applications.
