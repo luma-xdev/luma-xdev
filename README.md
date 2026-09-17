@@ -25,13 +25,6 @@ A professional invoice-generation application with client details, services, tax
 [GitHub Repository](https://github.com/luma-xdev/client-vault) • [Live Demo](https://luma-xdev.github.io/client-vault/)
 
 A client and project management dashboard for organizing clients, projects, budgets, deadlines, and workflow.
-💌 Luma Digital Letter
-
-An interactive digital-letter web experience with custom animations and responsive design.
-
-✨ Luma Shayri
-
-A large interactive Shayari application with categories, random Shayari, copy and sharing features.
 
 🛠️ Skills
 
